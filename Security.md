@@ -78,6 +78,7 @@
 ---
 
 10. What are some of the best ways you can protect your users against phishing attacks? Select all that apply.
+
   =>
   Verify a user’s identity with a Login Challenge
 
