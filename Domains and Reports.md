@@ -4,7 +4,9 @@
 
   => 
   Users not enrolled in 2 step verification
+  
   Users allowed access to less secure apps
+  
   External apps installed
 
 ---
@@ -37,7 +39,9 @@
 
   =>
   Each time a user fails to log in
+  
   Each time a user logged out
+  
   Each time a user logged in and there were some unusual characteristics
 
 ---
@@ -46,8 +50,11 @@
 
   =>
   You can customize the report or audit log by filtering the data by user or activity.
+  
   You can download and export your report or audit log data to a CSV file.
+  
   You can change the data you see in the report or audit log by clicking on the down arrow next to the title above the chart.
+  
   You can change the data you see in the report or audit log by or clicking on the Select Columns button to change the view of the available columns.
 
 ---
@@ -62,7 +69,9 @@
 
   =>
   Your own custom alerts based on your organization audit logs like Admin, Login or Tokens for example.
+  
   Mobile device activity alerts like device compromise update or suspicious mobile activity for example.
+  
   User activity alerts like when a user is added or deleted, granted Admin privileges or suspended for example.
 
 ---
